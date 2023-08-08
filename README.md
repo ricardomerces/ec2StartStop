@@ -1,3 +1,7 @@
+# Diagrama
+
+![Diagrama](stop-start.png)
+
 # Requisitos
 
 - Criar os triggers (agendamentos: start e stop) no Amazon EventBridge com a [Pattern START](event_start.txt) e a [Pattern STOP](event_stop.txt)
